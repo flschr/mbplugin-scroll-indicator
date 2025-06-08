@@ -1,4 +1,7 @@
 # Scroll Progress Bar for Micro.blog
+
+<img src="logo-scroll-indicator.png" alt="Scroll Indicator for Micro.blog" width="200">
+
 This Micro.blog plugin adds a simple scroll progress indicator to your blog. It displays a horizontal bar at the top of the screen that fills up as the user scrolls down the page.
 
 ## Features
