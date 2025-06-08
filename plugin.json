@@ -4,22 +4,22 @@
   "version": "0.0.1",
   "author": "René Fischer",
   "description": "Displays a customizable progress bar at the top of the page based on scroll position.",
-  "settings": [
+  "fields": [
     {
-      "name": "enabled",
+      "field": "params.scrollprogressbar.enabled",
       "type": "boolean",
       "label": "Enable progress bar",
       "default": true
     },
     {
-      "name": "color",
+      "field": "params.scrollprogressbar.color",
       "type": "color",
       "label": "Bar color",
       "default": "#007aff"
     },
     {
-      "name": "height",
-      "type": "text",
+      "field": "params.scrollprogressbar.height",
+      "type": "string",
       "label": "Bar height (e.g. 4px)",
       "default": "4px"
     }
