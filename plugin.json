@@ -1,7 +1,7 @@
 {
   "name": "mbplugin-scroll-indicator",
   "title": "Scroll Progress Bar for Micro.blog",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "author": "René Fischer",
   "description": "Displays a customizable progress bar at the top of the page based on scroll position.",
   "fields": [
