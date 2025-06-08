@@ -1,0 +1,26 @@
+{
+  "name": "Scroll Progress Indicator",
+  "version": "0.0.1",
+  "author": "René Fischer",
+  "description": "Displays a customizable progress bar at the top of the page based on scroll position.",
+  "settings": [
+    {
+      "name": "enabled",
+      "type": "boolean",
+      "label": "Enable progress bar",
+      "default": true
+    },
+    {
+      "name": "color",
+      "type": "color",
+      "label": "Bar color",
+      "default": "#007aff"
+    },
+    {
+      "name": "height",
+      "type": "text",
+      "label": "Bar height (e.g. 4px)",
+      "default": "4px"
+    }
+  ]
+}

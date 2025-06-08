@@ -1,0 +1,14 @@
+{{ if .Site.Params.scrollprogressbar.enabled }}
+<style>
+#scrollProgressBar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: {{ .Site.Params.scrollprogressbar.height }};
+  background-color: {{ .Site.Params.scrollprogressbar.color }};
+  width: 0%;
+  z-index: 9999;
+  transition: width 0.25s ease-out;
+}
+</style>
+{{ end }}
