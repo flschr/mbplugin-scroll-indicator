@@ -1,4 +1,5 @@
 {
+  "name": "mbplugin-scroll-indicator",
   "title": "Scroll Progress Bar for Micro.blog",
   "version": "0.0.1",
   "author": "René Fischer",
